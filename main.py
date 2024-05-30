@@ -19,9 +19,11 @@ def main():
 
     salary_vacancies = Vacancy.find_by_salary(get_search_word, salary_range)  # фильтруем по зарплате
 
-    get_top_vacancies = Vacancy.get_top_vacancies(salary_vacancies, top_vacancies)  # количество вакансий
+    sorted_by_salary = Vacancy.sorted_by_salary(salary_vacancies)  # сортируем по зарплате
 
-    if salary_vacancies is not None:
+    get_top_vacancies = Vacancy.get_top_vacancies(sorted_by_salary, top_vacancies)  # количество вакансий
+
+    if get_top_vacancies is not None:
         for vacancy in get_top_vacancies:
             print(vacancy)
     else:
@@ -29,7 +31,7 @@ def main():
 
     # сохраняем в JSON
     json_saver = JSONSaver()
-    json_saver.dump_to_file(get_top_vacancies)
+    json_saver.write_vacancies(get_top_vacancies)
 
 
 if __name__ == "__main__":
