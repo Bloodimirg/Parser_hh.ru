@@ -1,11 +1,75 @@
 [
     {
         "country": "Ташкент",
+        "name": "Senior Backend Python разработчик",
+        "salary": 20000000,
+        "url": "https://hh.ru/vacancy/100093892",
+        "requirement": "Технологии и инструменты. Framework: Django, Django REST Framework. Version control: Git, Gitlab. - Хорошее знание английского языка (Intermediate +). - ",
+        "responsible": "Написание читаемого, тестируемого и эффективного кода. - Разработка backend на <highlighttext>Python</highlighttext>. - Разработка микросервисных решений. - Интеграции с различными внешними системами. - "
+    },
+    {
+        "country": "Ташкент",
         "name": "Python Backend Developer",
         "salary": 9000000,
         "url": "https://hh.ru/vacancy/99568214",
         "requirement": "Опыт работы не менее 2 лет в разработке <highlighttext>Python</highlighttext>-приложений. Хорошее знания <highlighttext>Python</highlighttext>, FastAPI, Django. Опыт работы с REST API. ",
-        "responsibility": "Разрабатывать <highlighttext>Python</highlighttext>-приложений, многостраничные сайты, CRM и CMS системы разной сложности, E-Commerce и другие проекты. Участие в проектировании и..."
+        "responsible": "Разрабатывать <highlighttext>Python</highlighttext>-приложений, многостраничные сайты, CRM и CMS системы разной сложности, E-Commerce и другие проекты. Участие в проектировании и..."
+    },
+    {
+        "country": "Ташкент",
+        "name": "Prompt инженер Chat-GPT",
+        "salary": 8000000,
+        "url": "https://hh.ru/vacancy/98598207",
+        "requirement": "Страсть с технологиям и продуктам вокруг ChatGPT и ИИ. Опыт программирования на <highlighttext>Python</highlighttext>. Опыт работы с Open AI Assistant API. ",
+        "responsible": "Разработка и тестирование Prompt'ов для языковых моделей GPT-3 и GPT-4. Непрерывный анализ чатов и улучшение качества выходных..."
+    },
+    {
+        "country": "Москва",
+        "name": "Lead Machine Learning Engineer (Computer Vision)",
+        "salary": 1000000,
+        "url": "https://hh.ru/vacancy/99939501",
+        "requirement": "Опыт деплоя production-ready моделей на большие аудитории. Идеальное знание <highlighttext>Python</highlighttext>, Pytorch. Знание основных инструментов и библиотек для обработки изображений...",
+        "responsible": "Исследовать, разрабатывать и внедрять state-of-the-art технологии в области обработки изображений и видео. Совершенствовать текущие технологии и пайплайны. "
+    },
+    {
+        "country": "Астана",
+        "name": "Frontend-разработчик",
+        "salary": 300000,
+        "url": "https://hh.ru/vacancy/100498999",
+        "requirement": "Гражданин Казахстана. Высшее образование. Знание html. CSS. JS. <highlighttext>Python</highlighttext>. Django. Postgres. Leaflet.js, chart.js,D3.js. Bootstrap. OSM (работа с картами). Linux. ",
+        "responsible": "Развитие и доработка существующих проектов до полноценной версии. Составление тех дизайна с Backend-разработчиками. Активное участие в анализе пользовательских требований..."
+    },
+    {
+        "country": "Москва",
+        "name": "Senior unity developer (gamedev)",
+        "salary": 300000,
+        "url": "https://hh.ru/vacancy/100038073",
+        "requirement": "Опыт работы с UniRx. Опыт разработки игр в жанре idle tycoon. Знание других языков программирования (например, JavaScript, <highlighttext>Python</highlighttext>).",
+        "responsible": "Проектирование, разработка и поддержание грамотной архитектуры игр. Реализация игровых механик и интерфейсов в соответствии с концепцией и требованиями дизайнеров. "
+    },
+    {
+        "country": "Астана",
+        "name": "QA-Инженер (Тестировщик)",
+        "salary": 250000,
+        "url": "https://hh.ru/vacancy/96509886",
+        "requirement": "Желание внедрять процессы автоматизации API/UI на одном из ЯП (<highlighttext>Python</highlighttext>, JS, Java). Опыт работы с Docker, YouTrack, Confluence, Qase...",
+        "responsible": "Функциональное и нефункциональное тестирование десктопных, мобильных и веб приложении. Тестирование десктопных, мобильных и веб приложений. Регрессионное тестирование. Валидация баг-фиксов. "
+    },
+    {
+        "country": "Москва",
+        "name": "Data scientist (научный сотрудник)",
+        "salary": 207366,
+        "url": "https://hh.ru/vacancy/99750918",
+        "requirement": "дополнительным плюсом будет опыт внедрения моделей, владение методами XAI. Используемые технологии:<highlighttext>Python</highlighttext>, Pandas/NumPy/Scikit-learn, PyTorch, Flask, SQL, Docker.",
+        "responsible": "обучению языковых моделей классификации текста. - проведению анализа данных и научных публикаций. - написанию публикаций по результатам работы."
+    },
+    {
+        "country": "Москва",
+        "name": "Системный администратор / Junior + SRE / DevOps Engineer",
+        "salary": 207000,
+        "url": "https://hh.ru/vacancy/99854863",
+        "requirement": "Навыки написания скриптов на bash / shell / <highlighttext>python</highlighttext> (в большинстве случаев используем <highlighttext>Python</highlighttext>) как плюс. Опыт администрирования реляционных баз данных, опыт...",
+        "responsible": "Подготавливать инфраструктуру для сборки, развертывания, тестирования и работы сервисов. Создавать безопасный образ ОС для постоматной сети, автоматизация настройки постаматов. "
     },
     {
         "country": "Алматы",
@@ -13,63 +77,31 @@
         "salary": 200000,
         "url": "https://hh.ru/vacancy/98209966",
         "requirement": "Изучение и понимание основных концепций ИИ, а также соответствующие языки программирования и инструменты. Программирование: <highlighttext>Python</highlighttext>, R, или Java. ",
-        "responsibility": "Сотрудничество и коммуникация: Взаимодействуйте с другими членами команды, в том числе с разработчиками. Соблюдение сроков и управление проектом: Управляйте своим..."
-    },
-    {
-        "country": "Алматы",
-        "name": "Стажер-разработчик",
-        "salary": 100000,
-        "url": "https://hh.ru/vacancy/99234240",
-        "requirement": "Знание основ программирования. Знания любого языка программирования (JavaScript, PHP, <highlighttext>Python</highlighttext>, C#, Java, C, C++ и др). Писать код, понимать основные...",
-        "responsibility": "Разработка, развитие и поддержка Аналитической системы."
-    },
-    {
-        "country": "Таганрог",
-        "name": "Junior Golang Developer",
-        "salary": 75000,
-        "url": "https://hh.ru/vacancy/96194079",
-        "requirement": "Опыт работы с CI/CD. Опыт с другими языками программирования, такими как <highlighttext>Python</highlighttext>, Java, C++ и т. д., будет преимуществом. ",
-        "responsibility": null
+        "responsible": "Сотрудничество и коммуникация: Взаимодействуйте с другими членами команды, в том числе с разработчиками. Соблюдение сроков и управление проектом: Управляйте своим..."
     },
     {
         "country": "Москва",
-        "name": "Тестировщик",
-        "salary": 120000,
-        "url": "https://hh.ru/vacancy/99591875",
-        "requirement": "Плюсом будет опыт скриптинга (sh, powershell, <highlighttext>python</highlighttext>), работа с контейнеризацией (docker\\k8) и средствами виртуализации (vmware, hyperv, kvm и...",
-        "responsibility": "Мы занимаемся разработкой, развитием и поддержкой комплексного продукта СКДПУ НТ. Он обеспечивает всю функциональность системы контроля действий привилегированных пользователей: от..."
-    },
-    {
-        "country": "Санкт-Петербург",
-        "name": "Python Backend разработчик",
-        "salary": 120000,
-        "url": "https://hh.ru/vacancy/99609038",
-        "requirement": "Умение писать REST API. - Умение писать unit-тесты. - Linux и умение развертывать приложения. - Docker, CI/CD через Gitlab, Ansible. - ",
-        "responsibility": "Наш главный продукт – Videoseed. Платформа, существующая с 2013 года, для продвижения контента на разных площадках, позволяющая зарабатывать их владельцам на..."
+        "name": "Middle python developer",
+        "salary": 200000,
+        "url": "https://hh.ru/vacancy/100333710",
+        "requirement": "Опыт с <highlighttext>Python</highlighttext> от 3 лет. Опыт асинхронной разработки (asyncio) и разработки REST API (FastAPI\\Django\\DRF). Знание PostgreSQL (написание...",
+        "responsible": "Реализация и поддержка продуктов. Выбирать решения, обсуждать их с командой, взаимодействовать со всеми участниками. Помогать формировать документацию по фичам и..."
     },
     {
         "country": "Москва",
-        "name": "Программист-разработчик",
-        "salary": 100000,
-        "url": "https://hh.ru/vacancy/99578688",
-        "requirement": "Опыт работы с <highlighttext>Python</highlighttext> и его фреймворками (Django, Flask, SQLAlchemy) для разработки backend. Практический опыт работы с Telegram API, и...",
-        "responsibility": "Разработка и поддержка backend-систем и сервисов. Парсинг сайтов для составления аналитических отчетов. Написание чат-ботов в Telegram. "
+        "name": "Python разработчик",
+        "salary": 200000,
+        "url": "https://hh.ru/vacancy/99961811",
+        "requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3 лет. Опыт коммерческой разработки с FastApi от 2 лет. Опыт работы с микросервисной...",
+        "responsible": "Проект связан с созданием единой системы контроля назначений и направлений медицинских документов оформляемых в стационаре. В команде на сегодняшний день..."
     },
     {
-        "country": "Москва",
-        "name": "Backend-разработчик на Python",
-        "salary": 150000,
-        "url": "https://hh.ru/vacancy/98818345",
-        "requirement": "Коммерческий опыт программирования на <highlighttext>Python</highlighttext> от 2 лет. - Опыт работы с мобильными приложениями. - Опыт работы с <highlighttext>Python</highlighttext> и FastAPI: Кандидат...",
-        "responsibility": "1. Разработка API для мобильного приложения. 2. Интеграция с внутренними и внешними сервисами. 3. Участие в полном цикле разработки ПО..."
-    },
-    {
-        "country": "Уфа",
-        "name": "Разработчик Python/Django",
-        "salary": 100000,
-        "url": "https://hh.ru/vacancy/99055604",
-        "requirement": "У тебя уверенные навыки разработки на <highlighttext>Python</highlighttext> и Django. Имеешь опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2-3 лет. ",
-        "responsibility": "Разработка и доработка приложений и сервисов для коммерческих заказчиков Участие в продуктовых проектах компании."
+        "country": "Новосибирск",
+        "name": "Системный администратор/Сетевой инженер",
+        "salary": 200000,
+        "url": "https://hh.ru/vacancy/100418856",
+        "requirement": "Системы оркестрации контейнеров (MS Service Fabric, K8S). Для нас важен опыт: Конфигурирования сетей L2−L7: RSTP...",
+        "responsible": "Работой с сетевым оборудованием. Работой с сетевым оборудованием вендоров Eltex, Mikrotik, Cisco. Настройкой протоколов динамической маршрутизации (в основном BGP). "
     },
     {
         "country": "Москва",
@@ -77,6 +109,54 @@
         "salary": 200000,
         "url": "https://hh.ru/vacancy/99132580",
         "requirement": "Знание языков: SQL, DAX, <highlighttext>Python</highlighttext>. Знание технологий: 1. Microsoft: SQL Server, SSAS, Power BI, Excel. 2. Opensource: PostgreSQL, ClickHouse, Airflow. ",
-        "responsibility": "Лидировать полный цикл создания BI-продукта. Взаимодействовать вплотную с заказчиком для сбора и актуализации ожиданий от продукта. Организовывать взаимодействие внутри..."
+        "responsible": "Лидировать полный цикл создания BI-продуктов: настроить ETL-процесс из исходной системы, доработать и заполнить хранилище данных, разработать дэшборд или..."
+    },
+    {
+        "country": "Москва",
+        "name": "Middle Backend Developer",
+        "salary": 200000,
+        "url": "https://hh.ru/vacancy/99078454",
+        "requirement": "Опыт работы на проектах, связанных с интеграцией amoCRM в коммерческих компаниях. Знание PHP (8.1). Опыт разработки методов для REST...",
+        "responsible": "Взаимодействие с командой 1С-разработки и разработки <highlighttext>Python</highlighttext>. Участие в создании новых проектов под наши многочисленные направления бизнеса с..."
+    },
+    {
+        "country": "Москва",
+        "name": "Backend Python разработчик (middle)",
+        "salary": 190000,
+        "url": "https://hh.ru/vacancy/100340085",
+        "requirement": "Опыт официальной коммерческой разработки в продуктовой компании на <highlighttext>Python</highlighttext> с использованием одного из веб-фреймворков: Django, Flask, Tornado от 2...",
+        "responsible": "Интеграция с большим количеством внешних сервисов и систем. Используемые технологии: ubuntu, docker, nginx, postgres, rabbitmq, celery, <highlighttext>python</highlighttext>, django, react, prometheus..."
+    },
+    {
+        "country": "Москва",
+        "name": "PHP разработчик",
+        "salary": 190000,
+        "url": "https://hh.ru/vacancy/99613977",
+        "requirement": "Опыт разработки на PHP не менее 2-х лет. Знания PHP 7.4,8 Laravel 8. Redis. Опыт написания тестов...",
+        "responsible": "Разработка бэкенда REST (API) для SPA и прочих сервисов + интеграция со сторонними API. Интеграция API Telegram. Разработка нового функционала. "
+    },
+    {
+        "country": "Санкт-Петербург",
+        "name": "Продуктовый аналитик",
+        "salary": 180000,
+        "url": "https://hh.ru/vacancy/100396741",
+        "requirement": "Хорошее знание математической статистики. Владение SQL. Уверенное владение <highlighttext>Python</highlighttext> и data-related библиотеками. Опыт работы с колоночными базами данных. ",
+        "responsible": "Мы отвечаем за развитие платных продуктов Зуна, а также работаем над админкой и CRM для личного пользования сотрудников. "
+    },
+    {
+        "country": "Москва",
+        "name": "Продуктовый аналитик",
+        "salary": 180000,
+        "url": "https://hh.ru/vacancy/100396740",
+        "requirement": "Хорошее знание математической статистики. Владение SQL. Уверенное владение <highlighttext>Python</highlighttext> и data-related библиотеками. Опыт работы с колоночными базами данных. ",
+        "responsible": "Мы отвечаем за развитие платных продуктов Зуна, а также работаем над админкой и CRM для личного пользования сотрудников. "
+    },
+    {
+        "country": "Екатеринбург",
+        "name": "Разработчик Golang",
+        "salary": 180000,
+        "url": "https://hh.ru/vacancy/100414838",
+        "requirement": "DevOps, Docker. Разработки на других языках программирования, в особенности на C++, <highlighttext>Python</highlighttext>. Профилирования, Мониторинга, логирования и снятия метрик с работающей...",
+        "responsible": "Разработка ПО системы видеофиксации нарушений правил дорожного движения, в части: Микросервисов обработки потока детекций автомобилей и выгрузки во внешние системы. "
     }
 ]
